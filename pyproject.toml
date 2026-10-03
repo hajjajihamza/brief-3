@@ -2,4 +2,12 @@
 name = "brief-3"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.64.0",
+]
